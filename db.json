@@ -5,7 +5,8 @@
         "name": "The Great Wave",
         "artist": "Katsushika Hokusai",
         "image": "https://www.artic.edu/iiif/2/3eec80ab-bad4-8b35-1adb-57b7e7cb7adb/full/843,/0/default.jpg",
-        "info": "Katsushika Hokusai’s much celebrated series, Thirty-Six Views of Mount Fuji (Fugaku sanjûrokkei), was begun in 1830, when the artist was 70 years old. This tour-de-force series established the popularity of landscape prints, which continues to this day."
+        "info": "Katsushika Hokusai’s much celebrated series, Thirty-Six Views of Mount Fuji (Fugaku sanjûrokkei), was begun in 1830, when the artist was 70 years old. This tour-de-force series established the popularity of landscape prints, which continues to this day.",
+        "moreInfo": "https://www.artic.edu/artworks/77333/under-the-wave-off-kanagawa-kanagawa-oki-nami-ura-also-known-as-the-great-wave-from-the-series-thirty-six-views-of-mount-fuji-fugaku-sanjurokkei"
       },
       {
         "id": 2,
@@ -26,13 +27,6 @@
         "name": "The Bedroom",
         "artist": "Vincent Van Gogh",
         "image": "https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/843,/0/default.jpg",
-        "info": ""
-      },
-      {
-        "id": 5,
-        "name": "The Old Guitarist",
-        "artist": "Pablo Picasso",
-        "image": "https://www.artic.edu/iiif/2/ddacae05-9279-51b5-e9ab-00024ae01e27/full/843,/0/default.jpg",
         "info": ""
       },
       {
@@ -73,3 +67,5 @@
     }
     ]
   }
+
+  

@@ -5,14 +5,31 @@ body {
     font-family: Arial, Verdana, sans-serif;
 }
 
-h1 {
+#header {
     background-color: black;
-    padding: inherit;
+    padding: 1em 1em;
+    text-align: center;
 }
 
-p {
+#header2 {
     background-color: black;
-    padding: inherit;
+    padding: .5em .5em;
+    text-align: center;
+}
+
+#atc-picture {
+    max-width: 650px;
+    margin: 0 auto;
+    margin-top: 5vh;
+    width: 650px;
+    height: 500px
+}
+
+#funFact {
+    background-color: white;
+    padding: 1em 2em;
+    position: relative;
+    left: 250px;
 }
 
 #paint-collection {
