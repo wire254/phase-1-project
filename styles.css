@@ -22,16 +22,25 @@ p {
 }
 
 .card {
-    text-align: center;
-    border: black 1px;        
-    padding: 3rem;
-    width: 42rem;
-    height: 42rem;
-    margin: 2rem 2rem;
-    box-shadow: 3px 4px black; 
+  background-color: black;
+  text-align: center; 
+  padding: 4.5rem;
+  border: 1px;
+  border-radius: .30rem;
+  margin-bottom: 2rem;
 }
 
 img {
     width: 650px;
     height: 500px;
+}
+
+p {
+    text-align: left;
+    padding: 1rem;
+}
+
+button {
+    background-color: white;
+    padding: 1em 2em;
 }

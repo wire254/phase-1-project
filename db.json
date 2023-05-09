@@ -5,70 +5,71 @@
         "name": "The Great Wave",
         "artist": "Katsushika Hokusai",
         "image": "https://www.artic.edu/iiif/2/3eec80ab-bad4-8b35-1adb-57b7e7cb7adb/full/843,/0/default.jpg",
-        "likes": 0 
+        "info": "Katsushika Hokusai’s much celebrated series, Thirty-Six Views of Mount Fuji (Fugaku sanjûrokkei), was begun in 1830, when the artist was 70 years old. This tour-de-force series established the popularity of landscape prints, which continues to this day."
       },
       {
         "id": 2,
         "name": "Paris Street; Rainy Day",
         "artist": "Gustav Caillebotte",
         "image": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/843,/0/default.jpg",
-        "likes": 0 
+        "info": ""
       },
       {
         "id": 3,
         "name": "A Sunday On La Grande Jatte",
         "artist": "George Surat",
         "image": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/843,/0/default.jpg",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 4,
         "name": "The Bedroom",
         "artist": "Vincent Van Gogh",
         "image": "https://www.artic.edu/iiif/2/25c31d8d-21a4-9ea1-1d73-6a2eca4dda7e/full/843,/0/default.jpg",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 5,
         "name": "The Old Guitarist",
         "artist": "Pablo Picasso",
         "image": "https://www.artic.edu/iiif/2/ddacae05-9279-51b5-e9ab-00024ae01e27/full/843,/0/default.jpg",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 6,
         "name": "Water Lilies",
         "artist": "Claude Monet",
         "image": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 7,
         "name": "American Gothic",
         "artist": "Grant Wood",
         "image": "https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/843,/0/default.jpg",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 8,
         "name": "Time Transfixed",
         "artist": "Rene Magritte",
         "image": "https://www.artic.edu/iiif/2/6a7160ea-df65-9083-c16c-33b30662208d/full/843,/0/default.jpg",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 9,
         "name": "Night Hawks",
         "artist": "Edward Hopper",
         "image": "https://cdn.thecollector.com/wp-content/uploads/2020/07/nighthawks-edward-hopper.jpg?width=1080&quality=55",
-        "likes": 0
+        "info": ""
       },
       {
         "id": 10,
         "name": "Nightlife",
         "artist": "Archibald John Motley Jr.",
         "image": "https://www.artic.edu/iiif/2/ec19d5f1-ae0f-5186-d421-4a53dca5fb90/full/843,/0/default.jpg",
-        "likes": 0
+        "Info": ""
+
     }
     ]
   }

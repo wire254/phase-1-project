@@ -9,14 +9,19 @@ function createCardElement(painting) {
     card.classList.add("card")
 
     let h2 = document.createElement("h2");
-    h2.textContent = painting.name
+    h2.textContent = painting.name;
 
     let h3 = document.createElement("h3")
-    h3.textContent = painting.artist
+    h3.textContent = painting.artist;
 
     let img = document.createElement("img");
     img.src = painting.image;
 
-    card.append(h2, h3, img)
+    let p = document.createElement("p")
+    p.textContent = painting.info
+
+    let button = document.createElement("button")
+
+    card.append(h2, h3, img, p, button)
     document.getElementById("paint-collection").appendChild(card);
 }
