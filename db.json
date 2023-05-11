@@ -45,28 +45,32 @@
         "name": "American Gothic",
         "artist": "Grant Wood",
         "image": "https://www.artic.edu/iiif/2/b272df73-a965-ac37-4172-be4e99483637/full/843,/0/default.jpg",
-        "info": ""
+        "info": "",
+        "moreInfo": ""
       },
       {
         "id": 7,
         "name": "Time Transfixed",
         "artist": "Rene Magritte",
         "image": "https://www.artic.edu/iiif/2/6a7160ea-df65-9083-c16c-33b30662208d/full/843,/0/default.jpg",
-        "info": ""
+        "info": "",
+        "moreInfo": ""
       },
       {
         "id": 8,
         "name": "Night Hawks",
         "artist": "Edward Hopper",
         "image": "https://cdn.thecollector.com/wp-content/uploads/2020/07/nighthawks-edward-hopper.jpg?width=1080&quality=55",
-        "info": ""
+        "info": "",
+        "moreInfo": ""
       },
       {
         "id": 9,
         "name": "Nightlife",
         "artist": "Archibald John Motley Jr.",
         "image": "https://www.artic.edu/iiif/2/ec19d5f1-ae0f-5186-d421-4a53dca5fb90/full/843,/0/default.jpg",
-        "Info": ""
+        "Info": "",
+        "moreInfo": ""
 
     }
     ]
