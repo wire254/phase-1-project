@@ -21,14 +21,20 @@ function createCardElement(painting) {
     p.textContent = painting.info
 
     let button = document.createElement("button")
-    button.textContent= "More Info"
+    button.addEventListener ("click", function(){
+        location.href = painting.moreInfo
+    })
+    button.textContent = "More Info"
     button.id = painting.id
 
     card.append(h2, h3, img, p, button)
-    document.getElementById("paint-collection").appendChild(card);
+    document.getElementById("paintings").appendChild(card);
 }
 
-document.querySelector("#funFact").addEventListener("click", () => alert("The collection of the Art Institute of Chicago covers more than 5,000 years of human expression from cultures around the world. The museum owns more than 260,000 works of art. The art institute holds works of art ranging from as early as the Japanese prints to the most updated American art."))
+document.querySelector("#funFact").addEventListener("click", function() {alert(`The collection of the Art Institute of Chicago covers more than 5,000 years 
+of human expression from cultures around the world. The museum owns more than 260,000 works of art. The art 
+institute holds works of art ranging from as early as the Japanese prints to the most updated American art.`)
+})
 
 
 
