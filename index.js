@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     fetch("http:localhost:3000/paintings")
-    .then(response => response.json())
+    .then(function (response) {
+        return response.json()})
     .then(paintings => paintings.forEach(painting => createCardElement(painting)))
 })
 
@@ -31,10 +32,13 @@ function createCardElement(painting) {
     document.getElementById("paintings").appendChild(card);
 }
 
-document.querySelector("#funFact").addEventListener("click", function() {alert(`The collection of the Art Institute of Chicago covers more than 5,000 years 
-of human expression from cultures around the world. The museum owns more than 260,000 works of art. The art 
-institute holds works of art ranging from as early as the Japanese prints to the most updated American art.`)
+document.querySelector("#funFact").addEventListener("click", function() {
+    document.getElementById("popup-1").classList.toggle("active");
 })
+document.getElementById("close-btn").addEventListener("click", function() {
+    document.getElementById("popup-1").classList.toggle("active");
+})
+
 
 
 
