@@ -39,6 +39,9 @@ document.getElementById("close-btn").addEventListener("click", function() {
     document.getElementById("popup-1").classList.toggle("active");
 })
 
+function togglePopUp() {
+    document.getElementById("popup-1").classList.toggle("active");
+}
 
 
 
