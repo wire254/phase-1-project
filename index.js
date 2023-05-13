@@ -22,19 +22,17 @@ function createCardElement(painting) {
     p.textContent = painting.info
 
     let button = document.createElement("button")
-    button.addEventListener ("click", function(){
-        location.href = painting.moreInfo
-    })
     button.textContent = "More Info"
     button.id = painting.id
 
-    card.append(h2, h3, img, p, button)
+    card.append(h2, h3, img, button, p)
     document.getElementById("paintings").appendChild(card);
 }
 
-document.querySelector("#funFact").addEventListener("click", function() {
+document.getElementById("funFact").addEventListener("click", function() {
     document.getElementById("popup-1").classList.toggle("active");
 })
+
 document.getElementById("close-btn").addEventListener("click", function() {
     document.getElementById("popup-1").classList.toggle("active");
 })
