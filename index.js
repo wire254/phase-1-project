@@ -25,13 +25,15 @@ function createCardElement(painting) {
     document.getElementById("paintings").appendChild(card);
 }
 
+document.getElementById("close-btn").addEventListener("click", function() {
+    document.getElementById("popup-1").classList.toggle("active");
+})
+
 document.getElementById("funFact").addEventListener("click", function() {
     document.getElementById("popup-1").classList.toggle("active");
 })
 
-document.getElementById("close-btn").addEventListener("click", function() {
-    document.getElementById("popup-1").classList.toggle("active");
-})
+
 
 
 
