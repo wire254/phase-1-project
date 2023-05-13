@@ -21,11 +21,7 @@ function createCardElement(painting) {
     let p = document.createElement("p")
     p.textContent = painting.info
 
-    let button = document.createElement("button")
-    button.textContent = "More Info"
-    button.id = painting.id
-
-    card.append(h2, h3, img, button, p)
+    card.append(h2, h3, img, p)
     document.getElementById("paintings").appendChild(card);
 }
 
