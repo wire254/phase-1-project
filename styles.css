@@ -9,6 +9,7 @@ body {
     background-color: black;
     padding: 1em 1em;
     text-align: center;
+    border-radius: 50%;
 }
 
 #header2 {
