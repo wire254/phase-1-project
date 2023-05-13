@@ -33,7 +33,9 @@ document.getElementById("funFact").addEventListener("click", function() {
     document.getElementById("popup-1").classList.toggle("active");
 })
 
-
+document.getElementById("button").addEventListener("dblclick", function () {
+    alert("Thanks For Visiting!")
+})
 
 
 
