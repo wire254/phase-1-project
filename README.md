@@ -13,7 +13,7 @@ Are your a fan of travel? Do you like to experience and see new things? Well her
 
 
 ## Guide
-1. Fork and clone this project into your local enviroment and then headover to VS Code. 
+1. Fork and clone this project into your local enviroment and then navigate over to VS Code. 
 
 2. Once in VS Code, open a new terminal in order to start up the JSON server. This will access the data in the db.json file which will then render that data onto the aplication. 
 
@@ -23,3 +23,9 @@ followed by a the link http://localhost:3000/paintings
 
 4. Next, open a split terminal and type in: explorer.exe index.html
 this will open the project in the web browser. 
+
+5. Once on the project website, scroll down and explore to see some of the Art Institutes most famous work
+
+6. Click on the Fun Fact button to learn a little bit more about the Art Institute.
+
+7. At the bottom of the page, double click on another button to see what it says. 
